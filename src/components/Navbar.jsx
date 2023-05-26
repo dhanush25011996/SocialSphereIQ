@@ -1,5 +1,5 @@
 import React from "react";
-import About from '../Pages/About.jsx';
+import About from '../pages/About.jsx';
 import { Link } from 'react-router-dom'
 
 const Navbar = () => {
